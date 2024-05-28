@@ -14,8 +14,9 @@ Low-fedility wireframe were provided to have an overview how the application wou
 To view the wireframe, access <filename>.
 
 ## Metadata:
-The data that are used in this project is shared in the branch <branchname>
+The data that are used in this project is shared in the branch <metadata>
 It might take slightly longer than usual to load the data as each datasets are large.
+Original dataset and process codes are provided.
 
 ## FAIR implementation
 Details about the FAIR implementation for this project is shown in <filename>
