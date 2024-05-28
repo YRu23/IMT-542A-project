@@ -13,6 +13,9 @@ This application addresses the issue by aggregating movie ratings from IMDb, TMD
 Low-fedility wireframe were provided to have an overview how the application would look like. 
 To view the wireframe, access <filename>.
 
+## Access methodology
+Details about the access methodology to the new structure data is provided in??
+
 ## Metadata:
 The data that are used in this project is shared in the branch metadata
 
