@@ -19,7 +19,7 @@ It might take slightly longer than usual to load the data as each datasets are l
 Original dataset and process codes are provided.
 
 ## FAIR implementation
-Details about the FAIR implementation for this project is shown in <filename>
+Details about the FAIR implementation for this project is shown in <FAIR implementation.md>
 
 ## Analyze deficiencies and design improvements
 Details is shown in <filename>
