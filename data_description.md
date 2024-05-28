@@ -3,11 +3,11 @@
 Access to Raw Data: https://drive.google.com/drive/folders/1Wiza5SvaDJc43cd2JhGlM5ZWJh76AVtY?usp=drive_link
 
 ## IMDb Data
-**Source**:  [IMDb Non-Commercial Datasets] <google.colab>
-The IMDb datasets are refreshed dialy and can be accessed and downloade ftom IMDb dataset (link). Each dataset is contained in a gzipped, TSV formatted file. The first line in each file contains headers that describe what is in each column.
+**Source**:  https://drive.google.com/drive/folders/1w3_rzuVN84Bric1npZoO2F_mTDy0R6Y5?usp=drive_link
+The IMDb datasets are refreshed dialy and can be accessed and downloade ftom IMDb dataset [IMDb Non-Commercial Datasets]. Each dataset is contained in a gzipped, TSV formatted file. The first line in each file contains headers that describe what is in each column. The raw data used in data intergration can be access through the google drive.
 
 **Files Used**:
-- **Title.basics.tsv.gz**
+- **Title.basics.csv**
   - `tconst`: Alphanumeric unique identifier of the title
   - `titleType`: The type/format of the title (e.g. movie, short, tvseries, etc)
   - `primaryTitle`: The more popular title used by the filmmakers
@@ -18,17 +18,17 @@ The IMDb datasets are refreshed dialy and can be accessed and downloade ftom IMD
   - `runtimeMinutes`: Primary runtime of the title in minutes
   - `genres`: Up to three genres associated with the title
 
-- **Title.crew.tsv.gz**
+- **Title.crew.csv**
   - `tconst`: Alphanumeric unique identifier of the title
   - `directors`: Array of nconsts for director(s) of the title
   - `writers`: Array of nconsts for writer(s) of the title
 
-- **Title.ratings.tsv.gz**
+- **Title.ratings.csv**
   - `tconst`: Alphanumeric unique identifier of the title
   - `averageRating`: Weighted average of all the individual user ratings
   - `numVotes`: Number of votes the title has received
 
-- **Name.basics.tsv.gz**
+- **Name.basics.csv**
   - `nconst`: Alphanumeric unique identifier of the name/person
   - `primaryName`: Name by which the person is most often credited
   - `birthYear`: Birth year in YYYY format
