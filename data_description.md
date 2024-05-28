@@ -28,7 +28,7 @@ The IMDb datasets are refreshed dialy and can be accessed and downloade ftom IMD
   - `averageRating`: Weighted average of all the individual user ratings
   - `numVotes`: Number of votes the title has received
 
-- **Name.basics.csv**
+- **Nam.basics.csv**
   - `nconst`: Alphanumeric unique identifier of the name/person
   - `primaryName`: Name by which the person is most often credited
   - `birthYear`: Birth year in YYYY format
@@ -108,3 +108,9 @@ The original datasource is from Kaggle. [Metacritic Movie Reviews on Kaggle]
 ## Installation and Usage
 1. Download the raw data
 2. Run Google Colabs that are provided accordingly
+   - 1_title_basiccs_and_ratings.ipynb
+   - 2_title_crew_and_nam.ipynb
+   - 3_final merge imdb.ipynb
+   - 4_integrate_imdb_with_tmdb.ipynb
+   - 5_merge imdb_tmdb_metacritic.ipynb
+   - 6_movie ratings.ipynb
