@@ -51,7 +51,6 @@ The purpose of the test is to ensure that the movie rating application meets bot
 - **Functional Tests**:
   - Movie search functionality
   - User movie rating submission
-  - Viewing friend ratings
   - Integration with IMDb, TMDb, and Metacritic APIs
 
 - **Performance Tests**:
