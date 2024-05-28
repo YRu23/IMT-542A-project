@@ -26,4 +26,7 @@ Original dataset and process codes are provided.
 Details about the FAIR implementation for this project is shown in FAIR implementation.md
 
 ## Quality Control
-Details information about the quality control for the data is shown in Quality control.md
+Details information about the quality control for the data is shown in Quality control.md 
+
+## Test Plan
+Details about the test plan for the APIs is provided in Test plan.md
