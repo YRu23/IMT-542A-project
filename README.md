@@ -14,11 +14,11 @@ Low-fedility wireframe were provided to have an overview how the application wou
 To view the wireframe, access (https://www.figma.com/proto/wltlK8zwPmdxnRfdfIc93J/movie-rating?node-id=2001-246&t=LJgXRdN7w7IAO2wg-1&scaling=min-zoom&page-id=2001%3A2).
 
 ## Metadata:
-The data that are used in this project is shared in the branch <branchname>
+The data that are used in this project is shared in the branch metadata
 It might take slightly longer than usual to load the data as each datasets are large.
 
 ## FAIR implementation
-Details about the FAIR implementation for this project is shown in <filename>
+Details about the FAIR implementation for this project is shown in FAIR implementation.md
 
 ## Analyze deficiencies and design improvements
 Details is shown in <filename>
