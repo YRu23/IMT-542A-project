@@ -11,7 +11,7 @@ This application addresses the issue by aggregating movie ratings from IMDb, TMD
 
 ## Wireframe:
 Low-fedility wireframe were provided to have an overview how the application would look like. 
-To view the wireframe, access <filename>.
+To view the wireframe, access (https://www.figma.com/proto/wltlK8zwPmdxnRfdfIc93J/movie-rating?node-id=2001-246&t=LJgXRdN7w7IAO2wg-1&scaling=min-zoom&page-id=2001%3A2).
 
 ## Metadata:
 The data that are used in this project is shared in the branch <branchname>
