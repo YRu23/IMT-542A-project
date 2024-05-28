@@ -37,9 +37,9 @@ The IMDb datasets are refreshed dialy and can be accessed and downloade ftom IMD
   - `knownForTitles`: Array of tconsts for titles the person is known for
 
   ## TMDb Data
-  **Source**: [TMDb Movies Dataset on Kaggle]
-
-  Due to timely matters to request for API access, public data available on Kaggle (latest updated in 2024) was used.
+  **Source**: https://drive.google.com/drive/folders/161knLzcr6vh4NsDqk_ai3itp4YxbCLv9?usp=drive_link
+  
+  Due to timely matters to request for API access, public data available on Kaggle (latest updated in 2024) was used. [TMDb Movies Dataset on Kaggle]
 
 **Key Columns**:
 - `Id`: Unique identifier for each movie
@@ -54,7 +54,8 @@ The IMDb datasets are refreshed dialy and can be accessed and downloade ftom IMD
 - `Backdrop_path`: URL of the backdrop image for the movie
 
 ### Metacritic Data
-**Source**: [Metacritic Movie Reviews on Kaggle]
+**Source**: https://drive.google.com/file/d/1cDYxDwXecMypKPl4C6owszf-bum-VTKF/view?usp=drive_link
+The original datasource is from Kaggle. [Metacritic Movie Reviews on Kaggle]
 **Key Columns**:
 - `Movie_title`: Unique values for movie titles
 - `Release_date`
