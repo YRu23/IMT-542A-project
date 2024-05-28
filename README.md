@@ -22,5 +22,5 @@ Original dataset and process codes are provided.
 ## FAIR implementation
 Details about the FAIR implementation for this project is shown in FAIR implementation.md
 
-## Analyze deficiencies and design improvements
+## Quality Control
 Details is shown in <filename>
