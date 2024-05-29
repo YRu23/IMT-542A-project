@@ -48,3 +48,10 @@
 ### Request <api>/moviews_rating
 Response: download the dataset in csv format
 
+(The response might not work as the flask is not running)
+
+## Instruction to function API
+1. download movie_rating.py
+2. install Flask server
+3. launch Flask server (export FLASK_APP=movie_ratings.py)
+4. access the link provided
