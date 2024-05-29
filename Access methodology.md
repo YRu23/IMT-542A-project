@@ -28,7 +28,7 @@
 - After login, the user can download the movie rating dataset.
 
 ### Data Retrieval
-- Users can request the database for movie ratings through a search interface that supports filtering by genre, year, and director (easier view of the data).
+- Users can download the database for movie_ratings.csv by accesing the API
 
 ## Structure
 
@@ -45,17 +45,6 @@
 
 ## Example
 
-### Request <api>/moviews_rating/dataset
-Response: show the dataset and allow for download
-
-### Request <api>/moviews_rating/ironman
-Response:
-- Movie_id: 020
-- Title: Iron Man
-- Release_year: 2008
-- Director:Jon Favreau
-- Genres: Action, adventure, sci-fi
-- IMDb_score: 7.6
-- TMDb_score: 8.0
-- Metacritic: 7.95
+### Request <api>/moviews_rating
+Response: download the dataset in csv format
 
