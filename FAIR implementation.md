@@ -9,12 +9,12 @@ Users can access detailed metadata through a landing page that includes basic in
 - each movie dataset is assigned with a unique identifier to locate the data
 - datasets are described with rich metadata
 
-### Accessbility
+### Accessibility
 - Data is retrievable using standardized protocols, API
 - The protocols used are open, free, and universally implementable.
 
 ### Interoperability
-- Data uses formal accesible, shared and broadly used applucation, csv
+- Data uses formal accesible, shared and broadly used application, csv
 
 ### Reusability
 - Data is described with accurate and relevant attributes
