@@ -114,3 +114,22 @@ The original datasource is from Kaggle. [Metacritic Movie Reviews on Kaggle]
    - 4_integrate_imdb_with_tmdb.ipynb
    - 5_merge imdb_tmdb_metacritic.ipynb
    - 6_movie ratings.ipynb
+  
+## Differences Between Existing and New Data Structure
+
+### Existing Data Structure
+- IMDb Data:
+  - Multiple files (title.basics.csv, title.crew.csv, title.ratings.csv, name.basics.csv)
+  - Separate identifiers and attributes for movies, directors, and ratings
+- TMDb Data:
+  - Contains unique identifiers and attributes for movies
+- Metacritic Data:
+  - Contains unique values and attributes for movie titles
+
+### New Data Structure
+- **Unified Format**: All relevant information is combined into a single, cohesive dataset.
+- **Integrated Identifiers**: `tconst` is used as a common identifier across all datasets.
+- **Comprehensive Attributes**: Includes movie title, release year, genres, directors, and ratings from IMDb, TMDb, and Metacritic.
+- **Normalized Scores**: Ratings from different sources are normalized to a common scale (1-10) and averaged for an overall score.
+
+By transforming and integrating the disparate data sources into a unified structure, the new dataset offers a more streamlined and comprehensive view of movie ratings, enhancing both usability and accessibility.
