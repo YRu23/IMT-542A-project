@@ -14,7 +14,8 @@ Low-fedility wireframe were provided to have an overview how the application wou
 To view the wireframe, access <filename>.
 
 ## Access methodology
-Details about the access methodology to the new structure data is provided in Access methodology.md
+Details about the access methodology, data scope (IMDb, TMDb and metacritic) and new (created) data structure are provided in Access methodology.md
+
 
 ## Metadata:
 The data that are used in this project is shared in the branch metadata
