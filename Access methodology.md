@@ -30,7 +30,7 @@
 ### Data Retrieval
 - Users can download the database for movie_ratings.csv by accesing the API
 
-## Structure
+## New Data Structure
 
 - **movie_id (integer)**: Unique identifier for each movie.
 - **Title (string)**: Movie name.
