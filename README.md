@@ -11,15 +11,29 @@ This application addresses the issue by aggregating movie ratings from IMDb, TMD
 
 ## Wireframe:
 Low-fedility wireframe were provided to have an overview how the application would look like. 
-To view the wireframe, access (https://www.figma.com/proto/wltlK8zwPmdxnRfdfIc93J/movie-rating?node-id=2001-246&t=LJgXRdN7w7IAO2wg-1&scaling=min-zoom&page-id=2001%3A2).
+The wireframe is shown in the IMT 542 project presentation.pdf.
+
+## Access methodology
+Details about the access methodology, data scope (IMDb, TMDb and metacritic) and new (created) data structure are provided in Access methodology.md
+
 
 ## Metadata:
-The data that are used in this project is shared in the branch metadata
+The data that are used in this project is shared in the branch metadata. 
 
-It might take slightly longer than usual to load the data as each datasets are large.
+Data description.md is provided which include information as follow:
+- intro about the dataset that was used: original dataset
+- integration process
+- challenges
+- final data structure
+- differences between existing
+- new data strucuture.
+
 
 ## FAIR implementation
 Details about the FAIR implementation for this project is shown in FAIR implementation.md
 
-## Analyze deficiencies and design improvements
-Details is shown in <filename>
+## Quality Control
+Details information about the quality control for the data is shown in Quality control.md 
+
+## Test Plan
+Details about the test plan for the APIs is provided in Test plan.md
