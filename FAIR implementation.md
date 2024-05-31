@@ -18,3 +18,50 @@ Users can access detailed metadata through a landing page that includes basic in
 
 ### Reusability
 - Data is described with accurate and relevant attributes
+
+## FAIR Implementation for Each Data Resource
+
+### IMDb Data
+
+**Findable:**
+- **F1:** The metadata is assigned to a unique and persistent identifier (`imdb_id`).
+- **F2:** Data is well described, and a codebook is provided.
+- **F3:** Clearly and explicitly includes the identifier of the data.
+- **F4:** The dataset is searchable and provided directly as a zip file.
+
+**Accessible:**
+- **A1:** The metadata is easy to find and access.
+
+**Interoperable:**
+- The dataset provided by IMDb is not as interoperable as it needs to integrate its own datasets before taking them into account.
+
+**Reusable:**
+- **R1:** The usage license is stated clearly.
+
+### TMDb Data
+
+**Findable:**
+- The dataset is slightly challenging to locate and gain access to.
+
+**Accessible:**
+- The source is free and public, but it requires users to create an account and request access to the dataset.
+
+**Interoperable:**
+- The dataset uses a formal and accessible format, which helps to make it easier to access and integrate for analysis.
+
+**Reusable:**
+- There is clear clarification of the data usage license, and detailed provenance is provided before requesting access.
+
+### Metacritic Data
+
+**Findable:**
+- Unable to find the direct dataset from Metacritic. It requires data crawling to gather the data.
+
+**Accessible:**
+- Basic information is easy to access, but the dataset is not clearly provided or described.
+
+**Interoperable:**
+- Extra work is required to get quality data, including web scraping, storage, and data cleaning.
+
+**Reusable:**
+- Not as reusable compared to IMDb and TMDb as it does not clearly state an accessible data usage license or any settings about the data.
